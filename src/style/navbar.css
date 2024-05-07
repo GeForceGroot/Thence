@@ -1,0 +1,25 @@
+#navMain{
+    border: 1px solid #EAEAEA;
+    border-radius: 66px;
+    margin-top: 25px;
+}
+#btnMain{
+    border: black;
+    color: white;
+    background-color: black;
+}
+#btnMain:hover{
+    border: #4E4E4E;
+    color: white;
+    background-color: #4E4E4E;
+}
+#btnSc{
+    border: 1px solid #EAEAEA;
+    color: black;
+    background-color: white;
+}
+#btnSc:hover{
+    border: #EAEAEA;
+    color: black;
+    background-color: #F1F1F1;
+}
