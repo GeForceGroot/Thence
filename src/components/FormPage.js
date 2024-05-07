@@ -45,8 +45,8 @@ const FormPage = () => {
                 <div style={{ textAlign: 'center', marginTop: '50px' }}>
                     <img src={txtt} width="588px" height="178px" alt="logo" />
                 </div>
-                <div class="signup-container">
-                    <form class="signup-form" onSubmit={handleSubmit}>
+                <div className="signup-container">
+                    <form className="signup-form" onSubmit={handleSubmit}>
                         <input type="text" placeholder="Enter your name" required />
                         <input
                             type="email"
