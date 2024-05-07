@@ -1,3 +1,4 @@
+/* eslint-disable eqeqeq */
 const items = document.querySelectorAll(".accordion button");
 
 function toggleAccordion() {
